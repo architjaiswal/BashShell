@@ -1,8 +1,7 @@
 /*
 
 Name: Archit Jaiswal
-UTA ID: 1001543326
-CSE 3320 Programming Assignment 1: Shell
+Shell
 This program is a shell program like bash shell or linux command line terminal
 
 */
